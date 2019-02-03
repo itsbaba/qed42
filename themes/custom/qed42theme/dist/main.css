@@ -1,0 +1,86 @@
+.testimonial-wrapper .testimonial-image img {
+  margin: 0 auto; }
+
+.testimonial-wrapper .testimonial-name {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 800;
+  padding: 10px 0; }
+
+.testimonial-wrapper .testimonial-rating {
+  text-align: right;
+  font-size: 12px;
+  color: gray;
+  padding: 10px 0; }
+
+.testimonial-wrapper .testimonial-description {
+  text-align: center;
+  font-size: 16px;
+  font-family: cursive;
+  font-weight: 600;
+  padding: 10px 0; }
+
+.testimonial-wrapper .slide__content {
+  margin: 0 10px; }
+
+.testimonial-wrapper .slide__caption {
+  min-height: 350px;
+  background-color: #88d8c0; }
+
+.testimonial-wrapper .news-wrapper .slick-next, .news-wrapper .testimonial-wrapper .slick-next, .testimonial-wrapper .slick-next {
+  right: -35px; }
+
+.testimonial-wrapper .news-wrapper .slick-prev, .news-wrapper .testimonial-wrapper .slick-prev, .testimonial-wrapper .slick-prev {
+  left: -35px; }
+
+.testimonial-wrapper .news-wrapper .slick-arrow::before, .news-wrapper .testimonial-wrapper .slick-arrow::before, .testimonial-wrapper .slick-arrow::before {
+  color: #000000;
+  font-size: 36px; }
+
+.block-views-blocknews-and-event-section-block-2 h2, .bullet-wrapper .bullet-title, .block-views-blocktestimonial-section-block-1 h2 {
+  text-align: center;
+  font-size: 45px;
+  text-transform: uppercase;
+  padding: 15px 0;
+  font-weight: 700; }
+
+.news-wrapper .views-field-title {
+  text-align: center;
+  margin-bottom: 20px; }
+
+.news-wrapper .news-title a {
+  font-size: 25px;
+  color: #000000;
+  font-family: fantasy; }
+
+.news-wrapper .news-body {
+  padding: 40px 20px 20px; }
+
+.news-wrapper .description p {
+  font-size: 25px; }
+
+.news-wrapper .category {
+  padding-top: 15px;
+  font-size: 16px;
+  color: gray;
+  display: inline-block; }
+
+.news-wrapper .news-icon {
+  font-size: 30px;
+  padding-left: 15px; }
+  .news-wrapper .news-icon.Orange {
+    color: #ffa500; }
+  .news-wrapper .news-icon.Red {
+    color: #f7215e; }
+  .news-wrapper .news-icon.Yellow {
+    color: #ffffff; }
+
+.banner-wrapper img {
+  width: 100%; }
+
+.bullet-wrapper .bullet-points li {
+  font-size: 20px;
+  padding: 10px 0; }
+
+.bullet-wrapper .bullet-points ul {
+  margin-left: 35px; }

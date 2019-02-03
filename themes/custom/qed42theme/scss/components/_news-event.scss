@@ -1,0 +1,51 @@
+.block-views-blocknews-and-event-section-block-2 h2 {
+	@extend %common-heading-style;
+}
+
+.news-wrapper {
+	.views-field-title {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.news-title {
+		a {
+			font-size: 25px;
+			color: $black;
+			font-family: fantasy;
+		}
+	}
+	.news-body {
+		padding: 40px 20px 20px;
+	}
+	.description p {
+		font-size: 25px;
+	}
+	.category {
+		padding-top: 15px;
+		font-size: 16px;
+		color: $grey;
+		display: inline-block;
+	}
+	.news-icon {
+		font-size: 30px;
+		padding-left: 15px;
+		&.Orange {
+			color: $orange;
+		}
+		&.Red {
+			color: $red;
+		}
+		&.Yellow {
+			color: $yellow;
+		}
+	}
+	.slick-next {
+		@extend %slick-next;
+	}
+	.slick-prev {
+		@extend %slick-prev;
+	}
+	.slick-arrow {
+		@extend %slick-arrow;
+	}
+}
