@@ -1,0 +1,12 @@
+<?php 
+
+function homepage_theme($existing, $type, $theme, $path) {
+  return [
+    'banner' => [
+      'variables' => ['data' => NULL],
+    ],
+	'bullet' => [
+      'variables' => ['data' => NULL],
+    ],
+  ];
+}

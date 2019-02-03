@@ -1,0 +1,14 @@
+.bullet-wrapper {
+	.bullet-title {
+		@extend %common-heading-style;
+	}
+	.bullet-points {
+		li {
+			font-size: 20px;
+			padding: 10px 0;
+		}
+		ul {
+			margin-left: 35px;
+		}
+	}
+}

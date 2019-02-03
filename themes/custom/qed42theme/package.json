@@ -1,0 +1,21 @@
+{
+  "name": "qed42theme",
+  "version": "1.0.0",
+  "description": "Theme to implement pattern lab with QED42 theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp css && cd pattern-lab && php core/console --generate"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "breakpoint-sass": "^2.7.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "5.0.0",
+    "gulp-help": "^1.6.1",
+    "gulp-sass": "4.0.1",
+    "gulp-sass-glob": "1.0.9",
+    "normalize.scss": "^0.1.0"
+  },
+  "author": "Rohit Tiwari",
+  "license": "ISC"
+}
